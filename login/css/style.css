@@ -1,0 +1,27 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(26, 228, 103);
+}
+h1 {
+    font-size: 30px;
+    color: purple;
+}
+
+label {
+    background-color: aqua;
+}
+
+#userLabel {
+    font-size: 20px;
+}
+
+#passLabel {
+    font-size: 20px;
+}
+
+.labelClass{
+    color: chocolate;
+}
+.buttonClass{
+    color: darkorchid;
+}
