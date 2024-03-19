@@ -1,0 +1,217 @@
+.kilogram{
+    position: fixed;
+    left: 0;
+    top: 0;
+    color: #000;
+    background-color: #8E7AB5;
+    width: 100%;
+    padding: 10px;
+    border: 5px solid black;
+    z-index: 99999;
+}
+.Home{
+    position: fixed;
+    left: 0;
+    top: 100px;
+    color: #000;
+    background-color:  #8E7AB5;
+    width: 25%;
+    padding: 10px;
+    border: 5px solid black;
+
+}
+.Search{
+    position: fixed;
+    left: 0;
+    top: 200px;
+    color: #000;
+    background-color:  #8E7AB5;
+    width: 25%;
+    padding: 10px;
+    border: 5px solid black;
+
+}
+.Explore{
+    position: fixed;
+    left: 0;
+    top: 300px;
+    color: #000;
+    background-color:  #8E7AB5;
+    width: 25%;
+    padding: 10px;
+    border: 5px solid black;
+
+}
+.Reels{
+    position: fixed;
+    left: 0;
+    top: 400px;
+    color: #000;
+    background-color:  #8E7AB5;
+    width: 25%;
+    padding: 10px;
+    border: 5px solid black;
+
+}
+.Messages{
+    position: fixed;
+    left: 0;
+    top: 500px;
+    color: #000;
+    background-color:  #8E7AB5;
+    width: 25%;
+    padding: 10px;
+    border: 5px solid black;
+}
+.fixed{
+    position: fixed;
+    left: 0;
+    top: 600px;
+    color: #000;
+    background-color:  #8E7AB5;
+    width: 25%;
+    padding: 10px;
+    border: 5px solid black;
+}
+.pic1{
+    position: relative;
+    left: 45%;
+    top: 110px;
+    background-color: #B784B7;
+    color: #000;
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+    border: 5px solid black;
+    margin: 10px;
+
+}
+.pic2{
+    position: relative;
+    left: 45%;
+    top: 110px;
+    background-color: #B784B7;
+    color: #000;
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+    border: 5px solid black;
+    margin: 10px;
+
+}
+.pic3{
+    position: relative;
+    left: 45%;
+    top: 110px;
+    background-color: #B784B7;
+    color: #000;
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+    border: 5px solid black;
+    margin: 10px;
+}
+.pic4{
+    position: relative;
+    left: 45%;
+    top: 110px;
+    background-color: #B784B7;
+    color: #000;
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+    border: 5px solid black;
+    margin: 10px;
+}
+.pic5{
+    position: relative;
+    left: 45%;
+    top: 110px;
+    background-color: #B784B7;
+    color: #000;
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+    border: 5px solid black;
+    margin: 10px;
+}
+.pic6{
+    position: relative;
+    left: 45%;
+    top: 110px;
+    background-color: #B784B7;
+    color: #000;
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+    border: 5px solid black;
+    margin: 10px;
+}
+.pic7{
+    position: relative;
+    left: 45%;
+    top: 110px;
+    background-color: #B784B7;
+    color: #000;
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+    border: 5px solid black;
+    margin: 10px;
+}
+.pic8{
+    position: relative;
+    left: 45%;
+    top: 110px;
+    background-color: #B784B7;
+    color: #000;
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+    border: 5px solid black;
+    margin: 10px;
+}
+.pic9{
+    position: relative;
+    left: 45%;
+    top: 110px;
+    background-color: #B784B7;
+    color: #000;
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+    border: 5px solid black;
+    margin: 10px;
+}
+.pic10{
+    position: relative;
+    left: 45%;
+    top: 110px;
+    background-color: #B784B7;
+    color: #000;
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+    border: 5px solid black;
+    margin: 10px;
+}
+img{
+    width: 200px;
+    height: 200px; 
+}   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
