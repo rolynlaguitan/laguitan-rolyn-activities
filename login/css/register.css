@@ -14,16 +14,23 @@ label {
     background-color: #B784B7;
 }
 
-#userLabel {
+#userlabel {
     font-size: 15px;
 }
+#namelabel {
+    font-size: 15px;
+}
+#genderlabel {
+    font-size: 15px;
+}
+
 
 #passLabel {
     font-size: 15px;
 }
 
 .labelClass{
-    color: black;
+    color: white;
 }
 .buttonClass{
     color: black;
